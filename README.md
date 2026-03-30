@@ -18,7 +18,7 @@ The project focuses on backend architecture, RESTful API design, and database in
 
 ## Tech Stack
 - Language: Java  
-- Framework: Spring Boot  
+- Framework: Spring Boot，Vue
 - Database: MySQL  
 - ORM: MyBatis / MyBatis-Plus  
 - Build Tool: Maven  
